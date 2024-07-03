@@ -1,0 +1,5 @@
+{
+  "project": "project",
+  "author": "author",
+  "project_slug": "{{cookiecutter.project.lower().replace(' ', '_')}}"
+}
